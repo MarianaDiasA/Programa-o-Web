@@ -36,5 +36,6 @@ module.exports = {
     criarProduto,
     adicionarProduto,
     listarProdutos,
-    removerProduto
+    removerProduto,
+    editarProduto
 };
